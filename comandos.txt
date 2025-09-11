@@ -9,5 +9,8 @@
 *** comandos para rodar o projeto***
 1 - npx expo start
 
+***arrumar web expo***
+npx expo install react-dom react-native-web @expo/metro-runtime
+
 ***limpar terminal***
 1 - clear
